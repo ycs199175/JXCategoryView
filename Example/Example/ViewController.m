@@ -21,7 +21,7 @@
     self.tableView.rowHeight = 44;
 
     self.title = @"JXCategoryView Demo";
-
+    //JXCategoryView
     //测试RTL
 //    UIView.appearance.semanticContentAttribute = UISemanticContentAttributeForceRightToLeft;
 }
